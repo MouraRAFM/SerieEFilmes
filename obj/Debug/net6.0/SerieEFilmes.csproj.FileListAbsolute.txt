@@ -1,0 +1,30 @@
+E:\SerieEFilmes\bin\Debug\net6.0\SerieEFilmes.exe
+E:\SerieEFilmes\bin\Debug\net6.0\SerieEFilmes.deps.json
+E:\SerieEFilmes\bin\Debug\net6.0\SerieEFilmes.runtimeconfig.json
+E:\SerieEFilmes\bin\Debug\net6.0\SerieEFilmes.dll
+E:\SerieEFilmes\bin\Debug\net6.0\ref\SerieEFilmes.dll
+E:\SerieEFilmes\bin\Debug\net6.0\SerieEFilmes.pdb
+E:\SerieEFilmes\obj\Debug\net6.0\SerieEFilmes.csproj.AssemblyReference.cache
+E:\SerieEFilmes\obj\Debug\net6.0\SerieEFilmes.GeneratedMSBuildEditorConfig.editorconfig
+E:\SerieEFilmes\obj\Debug\net6.0\SerieEFilmes.AssemblyInfoInputs.cache
+E:\SerieEFilmes\obj\Debug\net6.0\SerieEFilmes.AssemblyInfo.cs
+E:\SerieEFilmes\obj\Debug\net6.0\SerieEFilmes.csproj.CoreCompileInputs.cache
+E:\SerieEFilmes\obj\Debug\net6.0\SerieEFilmes.dll
+E:\SerieEFilmes\obj\Debug\net6.0\ref\SerieEFilmes.dll
+E:\SerieEFilmes\obj\Debug\net6.0\SerieEFilmes.pdb
+E:\SerieEFilmes\obj\Debug\net6.0\SerieEFilmes.genruntimeconfig.cache
+E:\VS CODE\c# codigos\SerieEFilmes\bin\Debug\net6.0\SerieEFilmes.exe
+E:\VS CODE\c# codigos\SerieEFilmes\bin\Debug\net6.0\SerieEFilmes.deps.json
+E:\VS CODE\c# codigos\SerieEFilmes\bin\Debug\net6.0\SerieEFilmes.runtimeconfig.json
+E:\VS CODE\c# codigos\SerieEFilmes\bin\Debug\net6.0\SerieEFilmes.dll
+E:\VS CODE\c# codigos\SerieEFilmes\bin\Debug\net6.0\ref\SerieEFilmes.dll
+E:\VS CODE\c# codigos\SerieEFilmes\bin\Debug\net6.0\SerieEFilmes.pdb
+E:\VS CODE\c# codigos\SerieEFilmes\obj\Debug\net6.0\SerieEFilmes.csproj.AssemblyReference.cache
+E:\VS CODE\c# codigos\SerieEFilmes\obj\Debug\net6.0\SerieEFilmes.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS CODE\c# codigos\SerieEFilmes\obj\Debug\net6.0\SerieEFilmes.AssemblyInfoInputs.cache
+E:\VS CODE\c# codigos\SerieEFilmes\obj\Debug\net6.0\SerieEFilmes.AssemblyInfo.cs
+E:\VS CODE\c# codigos\SerieEFilmes\obj\Debug\net6.0\SerieEFilmes.csproj.CoreCompileInputs.cache
+E:\VS CODE\c# codigos\SerieEFilmes\obj\Debug\net6.0\SerieEFilmes.dll
+E:\VS CODE\c# codigos\SerieEFilmes\obj\Debug\net6.0\ref\SerieEFilmes.dll
+E:\VS CODE\c# codigos\SerieEFilmes\obj\Debug\net6.0\SerieEFilmes.pdb
+E:\VS CODE\c# codigos\SerieEFilmes\obj\Debug\net6.0\SerieEFilmes.genruntimeconfig.cache
